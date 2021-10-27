@@ -7,7 +7,8 @@ with open(path.join(this_directory, "README.md"), encoding='utf-8') as f:
 
 setup(
     name="linkvertise",
-    version="1.1.3",
+    version="1.1.5",
+    packages=["linkvertise"],
     description="Python wrapper for linkvertise monetizing api.",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -21,5 +22,6 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
     ],
-    keywords="linkvertise, linkvertise wrapper, linkvertise api, linkvertise monetizing"
+    keywords="linkvertise, linkvertise wrapper, linkvertise api, linkvertise monetizing",
+
 )
