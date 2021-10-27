@@ -1,4 +1,4 @@
-# linkvertise 1.1.3
+# linkvertise 1.1.5
 [![Downloads](https://pepy.tech/badge/linkvertise)](https://pepy.tech/project/linkvertise)
 
 Python wrapper for linkvertise monetizing api.
@@ -9,6 +9,7 @@ You can install package directly from pypi
 `pip install linkvertise`<br>
 
 ## Example usage
+
 ```python
 from linkvertise import LinkvertiseClient
 
