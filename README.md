@@ -1,11 +1,12 @@
 # linkvertise 1.1.5
+[![Downloads](https://pepy.tech/badge/linkvertise)](https://pepy.tech/project/linkvertise)
+Python wrapper for linkvertise monetizing api.
+
 <h2 style="color:red">Attention!!!</h2>
 Converted links are not showing on the linkvertise profile, but they work.
 You can test that by going through the link and seeing that it gave you money.
 
-[![Downloads](https://pepy.tech/badge/linkvertise)](https://pepy.tech/project/linkvertise)
 
-Python wrapper for linkvertise monetizing api.
 ## Installation
 
 You can install package directly from pypi
